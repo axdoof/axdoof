@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Rektsky reborn (not joke its literally just going to be the old rektsky but with ka scaffold and fly)
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on skidding or helping you shit on redesky with ebic bye pas
 - 📫 How to reach me: discord:axdoof#0069
